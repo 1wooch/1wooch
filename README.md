@@ -6,7 +6,7 @@ Hi, I am currently enrolled at Griffith University studying a Bachelor of Inform
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
-
+</br>
 <img src="https://www.codewars.com/users/1wooch/badges/large">
 
 
