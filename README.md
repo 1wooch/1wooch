@@ -1,7 +1,7 @@
 # Won(WonWooChoi) Profile
-Wonwoo Choi Profile
 
-Hi, I am currently enrolling Griffith university Information Technology Major 
+Hi, I am currently enrolled at Griffith University studying a Bachelor of Information Technology, Major in Software Development.
+
 
 <img src="https://www.codewars.com/users/1wooch/badges/large">
 
