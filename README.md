@@ -12,3 +12,4 @@ Hi, I am currently enrolled at Griffith University studying a Bachelor of Inform
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1wooch&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1wooch)](https://github.com/anuraghazra/github-readme-stats)
